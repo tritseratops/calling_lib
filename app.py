@@ -1,7 +1,7 @@
-from lib_example import greeting
+from lib_example import greetings
 
 def run():
-    greeting.greeting("Git Submodule")
+    greetings.greeting("Git Submodule")
 
 if __name__ == "__main__":
     run()
