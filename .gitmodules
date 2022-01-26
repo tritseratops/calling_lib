@@ -1,0 +1,3 @@
+[submodule "lib_example"]
+	path = lib_example
+	url = https://github.com/tritseratops/lib_example.git
