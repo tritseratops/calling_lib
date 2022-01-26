@@ -1,4 +1,4 @@
-from commonlib import greeting
+from lib_example import greeting
 
 def run():
     greeting.greeting("Git Submodule")
